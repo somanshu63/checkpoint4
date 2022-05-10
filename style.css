@@ -362,8 +362,8 @@ cite{
 .hero-article-big p{
 	color: var(--text-white) !important;
 }
-.hero-article-big .btn-primary{
-	margin: 1rem 0 0 25%;
+.hero-article-big .center-btn{
+	text-align:center;
 }
 .hero-article-small{
 	margin-top: 3.5rem;
